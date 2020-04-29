@@ -1,0 +1,44 @@
+#generate {
+    background-color: blue;
+}
+
+#displayHeader {
+    color: red;
+}
+
+h1 {
+  font-family: 'Proxima Nova';
+  font-size: 40px;
+  text-align: center;
+}
+
+#displayContainer {
+    display: flex;
+    justify-content: center;
+}
+
+#buttonContainer {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  cursor: pointer;
+}
+
+#generate {
+  font-size: 15px;
+  height: 3em;
+  width: max-content;
+  font-family: 'Proxima Nova';
+}
+
+pre {
+  height: 100%;
+  overflow: auto;
+  overflow-wrap: break-word;
+  padding: 10px;
+  background-color: #000;
+  color: #fff;
+}
+
