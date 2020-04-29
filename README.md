@@ -20,10 +20,10 @@ python3 -m http.server --directory ${PATH_TO_DIRECTORY} ${DESIRED_PORT}
 
 ## References
 
-[WorldoMeter - Coronavirus]("https://www.worldometers.info/coronavirus/")
+[WorldoMeter - Coronavirus](https://www.worldometers.info/coronavirus/)
 
-[COVID Tracking Project]("https://covidtracking.com/")
+[COVID Tracking Project](https://covidtracking.com/)
 
-[COVID-19 Tracker - Postman Documentation]("https://documenter.getpostman.com/view/4074074/SzS7Pkup?version=latest")
+[COVID-19 Tracker - Postman Documentation](https://documenter.getpostman.com/view/4074074/SzS7Pkup?version=latest)
 
 ....
